@@ -1,12 +1,13 @@
 body {
-    background-color:green;
+    background-image: url(https://media1.giphy.com/media/Vuw9m5wXviFIQ/200.webp?cid=ecf05e47e6zpj8g386n7bnyfkc3r5ybhjphmqckz8e2qjaq1&rid=200.webp&ct=g);
 }
 span {
-    color: pink;
+    color: red;
     font-family:"LiSu";
+    font-size: xx-small;
 }
 div{
-    background-color: green;
+    background-image: url(https://media1.giphy.com/media/Vuw9m5wXviFIQ/200.webp?cid=ecf05e47e6zpj8g386n7bnyfkc3r5ybhjphmqckz8e2qjaq1&rid=200.webp&ct=g);
 }
 mask{
     position:fixed;
