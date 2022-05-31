@@ -1,16 +1,12 @@
 body {
-    background-color:black;
-}
-h1 {
-    color:orange;
-    text-align:center;
+    background-color:green;
 }
 span {
-    color: red;
+    color: pink;
     font-family:"LiSu";
 }
 div{
-    background-color: black;
+    background-color: green;
 }
 mask{
     position:fixed;
