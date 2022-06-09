@@ -1,1 +1,4 @@
-.chat-text-wp{min-height:2.2rem}.portrait .chat-avatar{background-size:cover;border-radius:50%;height:2.2rem;left:.5rem;position:absolute;width:2.2rem}.portrait .chat-text{background-color:rgb(252, 7, 7);border-radius:.4rem;color:#f62500;display:inline-block;font-size:.7rem;left:3.6rem;line-height:1.3rem;max-width:70%;padding:.4rem .6rem;text-align:left}.portrait .chat-triangle{background-color:rgb(244, 3, 3);height:.54rem;left:-.27rem;position:absolute;top:.75rem;-webkit-transform:rotate(45deg);transform:rotate(45deg);width:.54rem}.portrait .is-mine .chat-avatar{left:auto;right:.5rem}.portrait .is-mine .chat-triangle{background-color:#f62b07;left:auto;right:-.3rem}.portrait .is-mine .chat-text-wp{text-align:right}.portrait .is-mine .chat-text{background-color:#f52804;left:auto;right:3.6rem}.portrait 
+.chat-time{
+    font-size: xx-large;
+    color: red;
+}
